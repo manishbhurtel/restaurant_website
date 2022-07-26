@@ -1,0 +1,20 @@
+.nav_container{
+    height: 60px;
+    width:100vw;
+    border-bottom: 2px solid black;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 2.6rem;
+    width:9rem;
+}
+.search_box{
+    display: none;
+}
+.searchIMAGE{
+    height: 2.4rem;
+    width:2.4rem;
+
+}
