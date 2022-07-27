@@ -5,7 +5,6 @@ function Body1() {
   return (
     <>
      <div className="body1_container">
-
      </div>
     </>
   )

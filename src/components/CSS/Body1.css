@@ -1,0 +1,12 @@
+.body1_container{
+    height: 100vh;
+    width:100vw;
+    z-index: -20;
+    position: absolute;
+    top:0;
+    left:0;
+    background: url("../../../src/images/homeBG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

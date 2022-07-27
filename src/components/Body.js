@@ -3,11 +3,13 @@ import Body1 from './Body1'
 import './CSS/All.css'
 
 function Body() {
-  return (
-    <>
-     <Body1 />
-    </>
-  )
+    return (
+        <>
+            <div className="body_container">
+                <Body1 />
+            </div>
+        </>
+    )
 }
 
 export default Body

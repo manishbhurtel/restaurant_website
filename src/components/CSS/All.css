@@ -6,3 +6,22 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+body{
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    width:6px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: red;
+    border-radius: 1rem;
+}
+.body_container{
+    height: 800vh;
+    width:100vw;
+}
+
+/* Cursor Pointer */
+.logo img, .links ul li, .search_image img{
+    cursor:pointer;
+}
